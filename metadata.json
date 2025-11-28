@@ -1,0 +1,5 @@
+{
+  "name": "C++ Dynamic Array Visualizer",
+  "description": "Interactive visualization of C++ std::vector and std::string concepts, demonstrating memory management, size vs. capacity, and comparison with static arrays.",
+  "requestFramePermissions": []
+}
